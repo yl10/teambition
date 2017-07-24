@@ -1,0 +1,7 @@
+*.exe
+*.exe~
+*.zip
+*.rar
+.vscode
+upload
+debug
